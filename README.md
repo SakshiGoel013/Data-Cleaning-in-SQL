@@ -1,6 +1,6 @@
 # Exploratory- Data-Analysis-in-SQL
 
-In this we take company's worlwide layoff data from 2020 to 2023 transform and analyse the data using SSMS (SQL Server Management Studio).
+In this I take company's worlwide layoff data from 2020 to 2023 transform and analyse the data using SSMS (SQL Server Management Studio).
 
 Source is Kaggle: https://www.kaggle.com/datasets/swaptr/layoffs-2022
 
